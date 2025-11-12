@@ -18,3 +18,9 @@ Tech Stack
 Timeline
 -Content Deadline:28 Feb 2026
 - Go-Live:15 Mar 2026
+
+- Setup instructions
+- '''bash
+- npm install
+- node index.js.txt
+- 
